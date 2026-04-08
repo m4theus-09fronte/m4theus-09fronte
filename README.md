@@ -1,24 +1,39 @@
 <div align="center">
-  <img src="https://github.com/m4theus-09fronte.png" width="150px" style="border-radius: 50%;" alt="Foto do Matheus" />
+  <img src="https://github.com/m4theus-09fronte.png" width="150px" style="border-radius: 50%; border: 3px solid #2ea44f;" alt="Foto do Matheus" />
 
-  # Olá, eu sou o Matheus Araújo! 👋
+  # ⚡ <font color="#2ea44f">Matheus Araújo</font> ⚡
 
-  ### Desenvolvedor Python | Automação | Front-end
+  ### `Full-Stack Developer & Automation Specialist`
   
-  Focado em transformar processos manuais em automações eficientes e criar interfaces modernas. Atualmente estudando Engenharia de Dados e Web Scraping.
+  ---
+
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=flat-square&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Data-blue?style=flat-square&logo=python" alt="Focus">
+
+  ---
+
+  > **Sistemas inteligentes e interfaces modernas.** > Atualmente focado em Engenharia de Dados, Web Scraping e otimização de processos industriais com Python.
 
   ---
 
   <a href="https://www.linkedin.com/in/matheus-ara%C3%BAjo-ba3151235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5" alt="LinkedIn">
   </a>
 
   ---
 
-  ### 🛠 Tecnologias e Ferramentas
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ### 🖥️ Tech Stack `[System.Ready]`
+  
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 
-</div>
+  ---
+
+  ```bash
+  $ sudo install solution --from-matheus-araujo
+  [####################] 100% 
+  > System optimized successfully!
